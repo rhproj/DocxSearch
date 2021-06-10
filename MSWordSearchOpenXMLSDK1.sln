@@ -1,11 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28306.52
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSWordSearchOpenXMLSDK1", "MSWordSearchOpenXMLSDK1\MSWordSearchOpenXMLSDK1.csproj", "{9FDEDA50-E87D-42A7-B648-38B38F9B4D6F}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DOC", "DOC\DOC.csproj", "{EEA9D766-B9D4-4869-A6C8-9F7A1BBD1064}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +15,6 @@ Global
 		{9FDEDA50-E87D-42A7-B648-38B38F9B4D6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FDEDA50-E87D-42A7-B648-38B38F9B4D6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FDEDA50-E87D-42A7-B648-38B38F9B4D6F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EEA9D766-B9D4-4869-A6C8-9F7A1BBD1064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EEA9D766-B9D4-4869-A6C8-9F7A1BBD1064}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EEA9D766-B9D4-4869-A6C8-9F7A1BBD1064}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EEA9D766-B9D4-4869-A6C8-9F7A1BBD1064}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
